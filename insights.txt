@@ -1,0 +1,40 @@
+Here are some key insights from your Power BI dashboard:
+
+1. Sales by Region
+
+West region leads with the highest sales (~0.75M).
+
+East region follows closely (~0.65M).
+
+Central and South regions have significantly lower sales (~0.45M and ~0.4M respectively).
+👉 Business is concentrated in the West and East regions; South is underperforming.
+
+2. Sales by Category
+
+Technology contributes the most with 36.4% (~836K) of total sales.
+
+Furniture is second at 32.3% (~742K).
+
+Office Supplies make up 31.3% (~719K).
+👉 Sales are well distributed across categories, but Technology is the biggest driver.
+
+3. Sales Trend by Month
+
+Low sales in January and February, with February being the weakest month (<0.1M).
+
+Sharp rise in March, then a dip in April–July (stagnant around ~0.15M).
+
+Strong growth from August onwards, with peaks in September (~0.32M) and November (~0.36M).
+
+Slight decline in December but still higher than mid-year.
+👉 Clear seasonality effect: stronger sales in Q4 (holiday season) and weaker sales in Q1.
+
+4. Overall Insights
+
+West & East dominate; South needs improvement.
+
+Technology leads in revenue generation.
+
+Strong seasonality — holiday months (Sept–Nov) are the best-performing, while Jan–Feb are slow.
+
+Opportunity: boost promotions and sales strategies in weaker months (Feb–July) and underperforming regions (South, Central).
